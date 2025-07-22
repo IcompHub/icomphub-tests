@@ -1,0 +1,22 @@
+{
+  "name": "icomphub-tests",
+  "version": "1.0.0",
+  "description": "This repository is used to keep the automatizaded tests scripts for IcompHub staging version",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IcompHub/icomphub-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IcompHub/icomphub-tests/issues"
+  },
+  "homepage": "https://github.com/IcompHub/icomphub-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.14"
+  }
+}
